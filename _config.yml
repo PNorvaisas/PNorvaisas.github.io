@@ -1,1 +1,5 @@
+description: Stiklainiai
 theme: jekyll-theme-merlot
+
+#Build settings
+markdown: kramdown
