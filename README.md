@@ -1,4 +1,4 @@
-# Povilas Norvaisas GitHub website
+# Povilas Norvaišas GitHub page
 
 
 ## About
