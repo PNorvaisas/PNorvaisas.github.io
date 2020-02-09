@@ -23,5 +23,4 @@ To be continued...
 
 # Contact me 
 
-<font size="1" color='white'> [Easter egg](docs/stiklainis/index.html)
-</font>
+[<font size="1" color='white'>Easter egg</font>](docs/stiklainis/index.html)
