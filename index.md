@@ -19,8 +19,9 @@ To be continued...
 
 # Interests
 
+
+[<font size="1" color='white'>Easter egg</font>](docs/stiklainis/index.html)
+
 # Publications
 
 # Contact me 
-
-[<font size="1" color='white'>Easter egg</font>](docs/stiklainis/index.html)
