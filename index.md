@@ -4,7 +4,7 @@ layout: default
 
 # About me
 
-Hello, my name is Povilas and I am a Senior Bioinformatics Data Scientist at [BenevolentAI](https://benevolent.ai/). It is my passion to understand world and make it a better place to live by contributing my skills and knowledge to drug development.
+Hello, my name is Povilas and I am a Senior Bioinformatics Data Scientist at [BenevolentAI](https://benevolent.ai/). It is my passion to understand world and make it a better place to live by contributing my skills and knowledge to drug development. You can find my resume [here](assets/pdf/povilas_norvaisas_resume_2020.pdf).
 # Research
 
 I have started my research career at a time when interdisciplinarity was a way to go. I graduated BSc Biophysics at [Vilnius University](https://www.vu.lt/en/) in Lithuania. Surprisingly, the study that got me interested in research had nothing to do with what I do now. During an exchange semester at [Helsinki University](https://www.helsinki.fi/en) with Prof. Eva Kidi I have developed a mathematical model for assymmetric assortative mating (ask me over a pint of beer, I know quite a bit about deer and stickleback mating habits).
