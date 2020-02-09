@@ -16,9 +16,9 @@ After graduating BSc, I had an opportunity to do a year internship at [The Houst
 
 After coming back to Lithuania I have continued working at the Department of Biothermodynamics and Drug Design. Here I have established a database of several hundred ligands developed at the department as well as their  cheminformatics analysis routines.
 
-As a Wellcome Trust PhD student in Dr. Filipe Cabreiro and Dr. Kevin Bryson groups at UCL I have developed experimental and computational approaches to investigate Drug-Host-Microbiota-Diet interaction in a _C. elegans-E. coli_ model. I have created data analysis, modelling and visualisation pipelines in _R_ & _Python_ for high-throughput omics studies. I performed NGS RNASeq data analysis and bacterial genome assembly and also analysed bacterial metabolic and transcriptional regulatory networks. This work has resulted in two publications in _Cell_.
+As a Wellcome Trust PhD student in Dr. Filipe Cabreiro and Dr. Kevin Bryson groups at UCL I have developed experimental and computational approaches to investigate Drug-Host-Microbiota-Diet interaction in a _C. elegans-E. coli_ model. I have created data analysis, modelling and visualisation pipelines in _R_ & _Python_ for high-throughput _omics_ studies. I performed NGS RNASeq data analysis and bacterial genome assembly and also analysed bacterial metabolic and transcriptional regulatory networks. This work has resulted in two publications in _Cell_.
 
-Currently I work as a Senior Bioinformatics Data Scientist at [BenevolentAI](https://benevolent.ai/). I contribute to the development of disease endotyping and patient stratification methods which use _omics_ data.
+Currently I work as a Senior Bioinformatics Data Scientist at [BenevolentAI](https://benevolent.ai/). I contribute to the development of disease endotyping and patient stratification methods which rely on _omics_ data.
 
 # Interests
 
