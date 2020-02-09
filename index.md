@@ -4,23 +4,25 @@ layout: default
 
 # About me
 
-Hello, my name is Povilas and I am a Senior Bioinformatics Data Scientist at [BenevolentAI](https://benevolent.ai/). It is my passion to understand world and make it a better place to live by using my skills and knowledge to drug development. I have contributed a number of projects directly and indirectly associated with drug design, development and action. You can find my resume [here](assets/pdf/povilas_norvaisas_resume_2020.pdf).
+Hello, my name is Povilas and I am a Senior Bioinformatics Data Scientist at [BenevolentAI](https://benevolent.ai/). It is my passion to understand world and make it a better place to live by using my skills and knowledge in drug development. I have contributed to a number of projects directly and indirectly associated with drug design, development and action. You can find my resume [here](assets/pdf/povilas_norvaisas_resume_2020.pdf).
 
 # Research
 
-I have started my research career at a time when interdisciplinarity was a way to go. I graduated BSc Biophysics at [Vilnius University](https://www.vu.lt/en/) in Lithuania. Surprisingly, the study that got me interested in research had nothing to do with what I do now. During an exchange semester at [Helsinki University](https://www.helsinki.fi/en) with Prof. Eva Kidi I have developed a mathematical model for assymmetric assortative mating (ask me over a pint of beer, I know a bit about deer and stickleback mating habits).
+I have started my research career at a time when interdisciplinarity was a way to go. I graduated BSc Biophysics at [Vilnius University](https://www.vu.lt/en/) in Lithuania. Surprisingly, the project that got me interested in research had nothing to do with what I do now. During an exchange semester at [Helsinki University](https://www.helsinki.fi/en) with Prof. Eva Kidi I have developed a mathematical model for assymmetric assortative mating (ask me over a pint of beer, I know a bit about deer and stickleback mating habits).
 
-At that time I was also working at the Vilnius University Insitute of Biotechnology, Department of Biothermodynamics and Drug Design. Here I investigated the basic principles of [hydrophobic effect](https://en.wikipedia.org/wiki/Hydrophobic_effect) (*one of the key forms of interaction between drugs and their targets*) using detergents as a simple model. During this time I gradually shifted my focus to molecular modelling and cheminformatics.
+At that time I was also working at the Vilnius University Insitute of Biotechnology, Department of Biothermodynamics and Drug Design. Here under supervision of Prof. Daumantas Matulis I investigated the basic principles of [hydrophobic effect](https://en.wikipedia.org/wiki/Hydrophobic_effect) (*one of the key forms of interaction between drugs and their targets*) using detergents as a simple model. During this time I gradually shifted my focus to molecular modelling and cheminformatics.
 
-After graduating BSc, I got an opportunity to do a year internship at [The Houston Methodist Research Institute](https://www.houstonmethodist.org/research/), [Department of Nanomedicine](https://www.houstonmethodist.org/research/our-research/nanomedicine/). Here I investigated compatibility principles between drugs and nanoparticles as well as possible mechanism behind cancer prevention using NSAIDs (Nonsteroidal anti-inflammatory drugs, think aspirin).
+After graduating BSc, I had an opportunity to do a year internship at [The Houston Methodist Research Institute](https://www.houstonmethodist.org/research/), [Department of Nanomedicine](https://www.houstonmethodist.org/research/our-research/nanomedicine/). Here I investigated compatibility principles between drugs and nanoparticles as well as possible mechanism behind cancer prevention using NSAIDs (Nonsteroidal anti-inflammatory drugs, think aspirin).
 
 After coming back to Lithuania I have continued working at the Department of Biothermodynamics and Drug Design. Here I have established a database of several hundred ligands developed at the department as well as their  cheminformatics analysis routines.
 
-Currently I work as a Senior Bioinformatics Data Scientist at [BenevolentAI](https://benevolent.ai/). I develop disease endotyping and patient stratification methods which rely use _omics_ data.
+As a Wellcome Trust PhD student in Dr. Filipe Cabreiro and Dr. Kevin Bryson groups at UCL I have developed experimental and computational approaches to investigate Drug-Host-Microbiota-Diet interaction in a _C. elegans-E. coli_ model. I have created data analysis, modelling and visualisation pipelines in _R_ & _Python_ for high-throughput omics studies. I performed NGS RNASeq data analysis and bacterial genome assembly and also analysed bacterial metabolic and transcriptional regulatory networks. This work has resulted in two publications in _Cell_.
+
+Currently I work as a Senior Bioinformatics Data Scientist at [BenevolentAI](https://benevolent.ai/). I contribute to the development of disease endotyping and patient stratification methods which use _omics_ data.
 
 # Interests
 
-In my free time I practice [Wu style Tai Chi Chuan](https://www.wustyle-europe.com/index.html), travel as much as I can, go on an occassional diving trip and savor fine things in life (friends, food, books and art). My resolution is to live as happily and long as I can. [<font size="1" color='white'>stiklainiai</font>](docs/stiklainis/index.html)
+In my free time I practice [Wu style Tai Chi Chuan](https://www.wustyle-europe.com/index.html), travel as much as I can, go on an occassional diving trip and savour fine things in life (friends, food, books and art). My resolution is to live as happily, healthy and long as I can. [<font size="1" color='white'>stiklainiai</font>](docs/stiklainis/index.html)
 
 # Publications
 
