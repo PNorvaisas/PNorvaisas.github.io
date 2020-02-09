@@ -22,3 +22,6 @@ To be continued...
 # Publications
 
 # Contact me 
+
+<font size="1" color='white'> [Easter egg](docs/stiklainis/index.html)
+</font>
